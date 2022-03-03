@@ -1,5 +1,6 @@
 <div align="center">
-I'm currently learning 
+
+  <h1> I'm currently learning </h1> 
   
   
 🌱  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" width="70"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" width="72"/>
