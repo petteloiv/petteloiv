@@ -8,5 +8,6 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
+<br>
 ![Petteloiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=petteloiv&show_icons=true&theme=buefy) 
 
