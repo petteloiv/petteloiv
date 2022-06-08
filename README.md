@@ -9,8 +9,9 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <br>
+  <br>
+  <br>
 </div>
-<br>
-<br>
+
 ![Petteloiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=petteloiv&show_icons=true&theme=buefy) 
 
