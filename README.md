@@ -1,5 +1,5 @@
 
-### IT Operations Associate, Frontend Developer 
+### IT Operations, Frontend Developer 
 - Support product operations
 - Improve the process
 - Conduct an experiment/testing 
